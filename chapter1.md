@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Initial Course'
 description: 'Chapter description goes here.'
 free_preview: true
 ---
@@ -17,7 +17,7 @@ skills: 2
 This is an example exercise.
 
 `@instructions`
-
+Complete the code the print "Hello World"
 
 `@hint`
 
@@ -33,6 +33,34 @@ This is an example exercise.
 ```
 
 `@solution`
+```{python}
+print("Hello World")
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 94383eab17
+xp: 50
+```
+
+
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
 ```{python}
 
 ```
